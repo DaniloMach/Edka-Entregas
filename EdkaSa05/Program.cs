@@ -52,7 +52,7 @@ namespace EdkaSa05
                 Termino = new DateTime(05/01/2023) },
              new Disciplinas { Disciplina = "Ambientes de Aprendizagem Inovativos",
                 Inicio = new DateTime(05/01/2023),
-                Termino = new DateTime(06/01/2023) },
+                Termino = new DateTime(06/01/2024) },
         };
 
 
